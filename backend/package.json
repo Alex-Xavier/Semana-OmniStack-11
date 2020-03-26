@@ -4,11 +4,11 @@
   "description": "Construção do Back-end da aplicação Be Hero em NodeJS por meio do evento Semana OmniStack 11.0 da Rocketseat com o propósito de ganhar experiência em programação.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
-    "url": "Ainda irei criar."
+    "url": "https://github.com/Alex-Xavier/Semana-OmniStack-11"
   },
   "keywords": [
     "NodeJS",
@@ -21,5 +21,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
   }
 }
