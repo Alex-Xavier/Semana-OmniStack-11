@@ -3,6 +3,7 @@
 
 # Pasta de Front-end
 /frontend/node_modules
+/frontend/.vscode
 /frontend/.pnp
 /frontend/.pnp.js
 /frontend/coverage
