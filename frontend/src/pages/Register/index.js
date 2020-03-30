@@ -26,7 +26,7 @@ function Register() {
         </section>
 
         <form>
-          <input placeholder="Nome da ONG." />
+          <input placeholder="Nome da ONG" />
           <input type="email" placeholder="E-mail" />
           <input placeholder="WhatsApp" />
 
